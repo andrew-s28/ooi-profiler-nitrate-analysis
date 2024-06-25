@@ -1,0 +1,11 @@
+beautifulsoup4
+flox
+gsw
+joblib
+matplotlib
+numpy
+pandas
+requests
+scipy
+tqdm
+xarray[io]
